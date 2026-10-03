@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "622f6b575ea80b96e4f25db2",
+  "owner": "ktndvbp",
+  "repo": "page-9b108caed69cc17a158ed905",
+  "title": "赤墨花",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9b108caed69cc17a158ed905",
+      "a": "赤墨花",
+      "b": "",
+      "entity": "赤墨花",
+      "brand": "赤墨花",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d2d5a329f498f3dbab16e31684012d5feef1b558d1a961e9c63ec7ebfffd9d88",
+      "content": {
+        "keyword1": "赤墨花",
+        "keyword2": "",
+        "primary_entity": "赤墨花",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "赤墨花提供专业VPN梯子与机场订阅服务，支持多平台客户端下载与节点加速，覆盖流媒体解锁、游戏与跨境办公。访问赤墨花官网了解基础版至团队版套餐与使用说明。",
+          "AI_DESCRIPTION": "赤墨花提供专业VPN梯子与机场订阅服务，支持多平台客户端下载与节点加速，覆盖流媒体解锁、游戏与跨境办公。访问赤墨花官网了解基础版至团队版套餐与使用说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-size:16px;line-height:1.65;color:#1f2937;background:#f3f4f6}a{color:#6d28d9;text-decoration:none}a:hover{text-decoration:underline}header{background:#5b21b6;color:#fff;padding:0.85rem 0}header .wrap,main .wrap,footer .wrap{max-width:1080px;margin:0 auto;padding:0 1rem}nav{display:flex;flex-wrap:wrap;gap:0.65rem 1.1rem}nav a{color:#fff;font-size:0.95rem}main{display:block;padding-bottom:2rem}h1{font-size:1.85rem;line-height:1.3;color:#4c1d95;margin:0.4rem 0 0.8rem}h2{font-size:1.4rem;color:#5b21b6;margin:0 0 0.85rem}h3{font-size:1.12rem;color:#4c1d95;margin:0 0 0.45rem}p,li{margin-bottom:0.7rem}ul{padding-left:1.2rem}section{padding:1.6rem 0}.panel{background:#fff;border-radius:10px;padding:1.2rem 1.25rem;border:1px solid #e5e7eb}.stagger{display:flex;flex-wrap:wrap;gap:1rem;align-items:stretch}.stagger.reverse{flex-direction:row-reverse}.col{flex:1 1 280px}.plans{display:flex;flex-wrap:wrap;gap:1rem;justify-content:center}.plan{flex:1 1 240px;background:#fff;border:2px solid #d1d5db;border-radius:10px;padding:1.2rem}.plan.featured{border-color:#7c3aed;background:#faf5ff}.price{font-size:1.35rem;font-weight:700;color:#5b21b6;margin:0.3rem 0}.muted{color:#4b5563;font-size:0.92rem}details{background:#fff;border:1px solid #ddd6fe;border-radius:8px;padding:0.75rem 1rem;margin:0.55rem 0}summary{font-weight:650;color:#5b21b6}details p{margin:0.55rem 0 0.15rem;color:#374151}footer{background:#e5e7eb;padding:1.6rem 0 2rem;font-size:0.92rem;color:#374151}footer h2{font-size:1.1rem;margin-bottom:0.5rem}.foot-grid{display:flex;flex-wrap:wrap;gap:1rem}.foot-grid>div{flex:1 1 220px}@media (max-width:640px){h1{font-size:1.5rem}h2{font-size:1.25rem}.stagger,.stagger.reverse{flex-direction:column}nav{font-size:0.9rem}}</style><header><div class=\"wrap\"><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#plans\">套餐方案</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main><section id=\"intro\"><div class=\"wrap\"><h1>赤墨花</h1><div class=\"panel\"><p>赤墨花是面向个人用户与小团队的网络加速品牌，提供机场订阅与多平台客户端配合使用的解决方案。用户完成套餐开通后，可获得订阅配置并在常用加速器中导入，用于跨境访问、流媒体播放与游戏线路优化。赤墨花官方网站集中展示套餐说明、操作步骤与客户端获取指引，便于对照价格与设备数量，减少误信非官方渠道的风险。</p><p>服务定位以稳定优先：普通线路覆盖日常浏览与基础解锁，旗舰线路补充 IPLC 专线以改善实时通讯与对延迟敏感的场景。流量、同时在线台数与工单响应在套餐中写明，页面不堆砌无法核验的速度承诺。若你正在寻找赤墨花VPN、赤墨花机场或赤墨花官网下载相关说明，可按下方章节顺序阅读简介、场景、导入步骤与常见问题。</p></div></div></section><section><div class=\"wrap\"><h2>品牌简介与线路说明</h2><div class=\"stagger\"><div class=\"col panel\"><h3>节点与性能取向</h3><p>赤墨花节点以亚洲枢纽为主并辅以北美出口，常见落点包括香港、东京、新加坡与洛杉矶等。基础版使用经过筛选的普通线路节点池，适合网页、邮件与常规视频。旗舰版开放全节点原生流媒体策略，并提供 IPLC 专线游戏加速优化，减少绕路带来的抖动。团队版另设 VIP 高带宽节点，便于多人同时传输。</p><p>实际速度取决于本地宽带、时段与目标站点。建议在客户端中多次测延迟后再固定节点，避免频繁切换导致会话中断。赤墨花不在此页公布无法复现的峰值数字，而以套餐内流量配额与设备上限作为可核对信息。</p></div><div class=\"col panel\"><h3>官方身份与使用边界</h3><p>请通过赤墨花官网公布的入口了解套餐与客户端名称，核对基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月及对应年付价格是否与本页一致。官方身份体现在价格公示、设备数量与支持范围，而不是夸张口号。订阅仅用于加速访问与合规的跨境协作，用户应遵守所在地与目标网站的规定。</p><p>客户端请从可信应用商店或开发者页面获取，再导入赤墨花订阅。任何要求额外安装不明插件或关闭系统安全功能的来源，都与官方说明不符。旗舰版含 7x24 优先工单，团队版配备专属客户经理通道，便于企业定制路由时沟通。</p></div></div></div></section><section id=\"scenes\"><div class=\"wrap\"><h2>使用场景</h2><div class=\"stagger reverse\"><div class=\"col panel\"><h3>娱乐与媒体</h3><p>基础版可解锁基础流媒体，满足常见海外影视与音乐平台的地区限制场景。旗舰版强调全节点原生解锁，降低因公共 DNS 或中转节点导致的版权库识别失败。观看前先更新订阅并选择标注媒体优化的节点，可减少缓冲与清晰度回退。</p><p>移动端与电视盒子若需同时在线，请将设备计入套餐台数。家庭共用时优先旗舰版 5 台额度，避免会话被踢出。</p></div><div class=\"col panel\"><h3>办公、学习与游戏</h3><p>跨境文档、代码仓库、会议软件在晚高峰更容易拥塞，选择延迟更低的专线有助于文件同步与语音稳定性。学术检索、公开课与国际期刊站点同样适合使用长期在线的订阅，而不必反复更换临时工具。</p><p>对局类游戏与语音对讲对丢包敏感，旗舰版 IPLC 说明即针对此类需求。团队版支持企业定制路由，可把办公网段与娱乐流量分开，减少策略冲突。</p></div></div></div></section><section id=\"guide\"><div class=\"wrap\"><h2>操作说明</h2><div class=\"panel\"><ol><li>对照套餐选择基础版、旗舰版或团队版，确认每月流量、同时在线设备与年付优惠。本页为展示与说明，开通流程以赤墨花官方实际通道为准。</li><li>前往客户端下载章节，按 Windows、macOS、Android、iOS 或 Linux 选择主流兼容客户端。常见类型包括 Clash 系、Shadowrocket、Quantumult 与 Stash 等，名称以各系统可用应用为准。</li><li>在客户端中新增订阅，粘贴赤墨花提供的订阅地址并更新节点列表。首次导入后建议开启自动更新，以免节点调整后仍使用旧配置。</li><li>根据用途挑选节点：浏览与下载可用普通线路，流媒体选原生解锁标识，游戏与会议优先 IPLC 或低延迟专线。连接后用目标网站做一次访问测试。</li><li>若出现无法更新、流量异常或设备超限，先排除本地代理端口冲突，再按套餐等级提交工单。旗舰与团队用户可获得更靠前的响应队列。</li></ol><p class=\"muted\">操作过程不需要关闭系统防火墙或安装来路不明的证书，除非客户端官方文档有明确、可逆的说明。遇到异常证书提示应停止导入并回到赤墨花官网核对。</p></div></div></section><section id=\"plans\"><div class=\"wrap\"><h2>套餐方案</h2><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p class=\"muted\">价格与权益以本页列出的三项套餐为准。流量在套餐周期内有效，跨设备共享同一配额。年付为对应月价的十个月合计口径，便于对照预算。</p></div></section><section id=\"download\"><div class=\"wrap\"><h2>客户端下载与订阅导入</h2><div class=\"stagger\"><div class=\"col panel\"><h3>官方下载指引</h3><p>赤墨花提供机场订阅，本身不捆绑强制安装包。请在各系统官方应用商店或客户端项目发布页获取软件，再回到赤墨花官网复制订阅。Windows 与 macOS 可使用 Clash 兼容图形客户端；Android 可选支持订阅的加速器；iOS 需使用商店内已上架的 Shadowrocket 等工具。</p><p>本页下载相关链接仅使用页内锚点，避免跳转到无法核验的第三方。获取安装包后核对数字签名或开发者名称，再导入订阅。若页面或聊天中出现与本站套餐价格不符的“破解客户端”，请忽略。</p></div><div class=\"col panel\"><h3>导入后检查清单</h3><p>更新订阅成功应能看到分区节点，含普通线路与旗舰专线标识。系统代理模式建议先用规则分流，确认国内站点直连、跨境站点走代理。DNS 可使用客户端内加密选项，减少污染导致的解析失败。</p><p>多设备使用时在客户端中备注设备名，便于超限时排查。团队版如需定制分流，把办公域名与游戏端口需求整理后通过客户经理提交，避免在本地反复手工改规则。</p></div></div><p><a href=\"#faq\">查看导入失败等常见问题</a> · <a href=\"#plans\">返回套餐对照</a> · <a href=\"#\">刷新本页说明</a></p></div></section><section id=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><p>以下问题按实际使用顺序排列，覆盖赤墨花是什么、如何下载客户端、流量与设备、节点更新及识别官网等。每组均可展开阅读完整回答。</p><details><summary>赤墨花是什么？和赤墨花VPN、赤墨花机场有何关系？</summary><p>赤墨花是同一品牌下的网络加速与机场订阅服务。用户购买套餐后得到可导入主流客户端的订阅地址，用于梯子式网络加速、流媒体访问与游戏线路优化。称呼上的赤墨花VPN或赤墨花机场均指向本站说明的同一套餐与节点体系，并不额外叠加另一套独立产品。</p></details><details><summary>如何在赤墨花官网完成客户端下载与配置？</summary><p>先根据操作系统准备兼容客户端，再打开本页客户端下载章节对照导入步骤。复制官方订阅并在软件中添加、更新，选择节点后开启系统代理或规则模式。赤墨花不把安装包强制塞进浏览器下载列表，以降低捆绑风险。iOS 应用需通过可用地区的商店获取，Android 与桌面端同样以官方发布渠道为准。</p></details><details><summary>三个套餐的流量和设备上限如何理解？</summary><p>基础版每月 100GB、3 台同时在线；旗舰版每月 300GB、5 台；团队版每月 1000GB、20 台。流量在同一账号下共享，直播与系统更新也可能占用配额。同时在线以实际建立的代理会话计算，路由器挂载会占用一台额度。年付价格为基础 ¥150/年、旗舰 ¥350/年、团队 ¥850/年，便于和月付对比。</p></details><details><summary>节点无法连接或流媒体仍显示地区限制怎么办？</summary><p>先更新订阅，排除过期节点。更换同一区域的备用线路，并确认客户端时间与系统时区正确。基础版仅承诺基础流媒体解锁，遇严格检测的平台请改用旗舰版全节点原生策略。游戏场景优先 IPLC 标识节点，并关闭可能冲突的其他代理插件。</p></details><details><summary>怎样确认自己访问的是赤墨花官方网站而不是仿冒页？</summary><p>核对品牌名赤墨花、套餐价格与本页完全一致，并查看是否具备简介、场景、操作说明与可展开的常见问题结构。仿冒站常把下载做成来历不明的可执行文件或要求额外扫码。官方说明中的链接仅为页内锚点或 #，不会诱导关闭安全软件。收藏赤墨花官网入口后从书签进入，可减少搜索结果混淆。</p></details><details><summary>团队版定制路由包含哪些沟通内容？</summary><p>可说明需要直连的办公域名、走代理的跨境 SaaS、以及游戏或会议的端口需求。客户经理会按设备数量与 1000GB 流量评估是否拆分配置。定制不是无限节点，仍受套餐带宽与公平使用影响。变更需求建议集中提交，避免频繁改规则造成终端不一致。</p></details></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div class=\"foot-grid\"><div id=\"sitemap\"><h2>网站地图</h2><p><a href=\"#intro\">品牌简介</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#guide\">操作说明</a> · <a href=\"#plans\">套餐方案</a> · <a href=\"#download\">客户端下载</a> · <a href=\"#faq\">常见问题</a></p></div><div><h2>广告</h2><p>赤墨花官网可提供文字链与专题介绍位置，欢迎云主机、安全软件与企业协同工具洽谈。当前示例：跨境办公网络优化方案咨询（展示位，非跳转表单）。</p></div><div><h2>友情链接</h2><p><a href=\"#\">客户端配置笔记</a> · <a href=\"#\">流媒体区域说明</a> · <a href=\"#\">隐私与日志阅读</a> · <a href=\"#\">团队网络策略</a></p></div></div><p>赤墨花官方网站信息展示页。内容用于说明机场订阅、VPN加速器与客户端下载路径，不设评分模块，不收集表单。© 赤墨花</p></div></footer>",
+          "hash": "9c9e24d6736ecc3c71d1c46822a021a31dfef30047366c5475829aed12f9f26e",
+          "seo": {
+            "title": "赤墨花官网 | 赤墨花VPN机场订阅与加速器客户端官方下载",
+            "keywords": "赤墨花,赤墨花VPN,赤墨花机场,赤墨花官网,VPN加速器,梯子,网络加速,客户端下载,机场订阅,IPLC专线",
+            "description": "赤墨花提供专业VPN梯子与机场订阅服务，支持多平台客户端下载与节点加速，覆盖流媒体解锁、游戏与跨境办公。访问赤墨花官网了解基础版至团队版套餐与使用说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "gwflw.cn",
+    "host": "p-23024219ea.gwflw.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "gwflw.cn",
+      "url": "https://gwflw.cn/",
+      "label": "MGNB",
+      "apex": "gwflw.cn",
+      "kind": null,
+      "identity": "yrpbpx/page-adedfb53d79bf8e0786cd477"
+    },
+    {
+      "host": "toldh.cn",
+      "url": "https://toldh.cn/",
+      "label": "赤墨花",
+      "apex": "toldh.cn",
+      "kind": null,
+      "identity": "euqqmbpu/page-d976ddb1f23891d1f2edb12a"
+    },
+    {
+      "host": "uldeuvh.cn",
+      "url": "https://uldeuvh.cn/",
+      "label": "赤墨花",
+      "apex": "uldeuvh.cn",
+      "kind": null,
+      "identity": "kkhyjvctj/page-976a0a1dcff1ad3f0fbab629"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "6e457a8459f9e9c5e8609651dc998bc7bf4fd9c3335e34971d116e5799c17bb0",
+    "sitemap.xml": "a2348b70587665b9ce4048266bee6b7ccc72b8fb885ec0c17a8cf7a39f78842d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "067d0ba54f797e33cadb1fab88e68c6374e843207daa5fb85ac14309454c6314",
+    "robots.txt": "180595beb502083c8873dcf12e7a115d3e822b4f954af00da9332b69226fcf45",
+    "7899e27039e1baab0166bc94409fd6ef.txt": "40f27906922207245caca4e75df84720c58bde4b3af540ec75c44d02a64000ac"
+  },
+  "revision": "3984055b3f7fcbe0474e8dc66f81f0e6657f038d53696588f0e187a6e5cd8df5"
+}
